@@ -6,6 +6,7 @@ TagManager:
   tags:
   - death
   - block
+  - ball
   layers:
   - Default
   - TransparentFX
@@ -17,8 +18,8 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
+  - post
+  - post-2
   - 
   - 
   - 
